@@ -1,6 +1,7 @@
 # VGG-16-Inception-V3-Cotton-Disease-Prediction
 # Dataset: https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
-# Description About the problem: We have four classes of cotton images which are diseased cotton leaf, diseased cotton plant, fresh cotton leaf and fresh cotton leaf. So, we have to build the model in such a way If we feed the images into the model It can able to detect whether those images belong to the which classes?
+# Description 
+  ## About the problem: We have four classes of cotton images which are diseased cotton leaf, diseased cotton plant, fresh cotton leaf and fresh cotton leaf. So, we have to build   ##   the model in such a way If we feed the images into the model It can able to detect whether those images belong to the which classes?
 # Building the CNN Model
   ## 1. VGG-16
   ## 2. Inception-V3 with Adam Optimizer
