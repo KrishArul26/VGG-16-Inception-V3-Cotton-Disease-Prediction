@@ -7,7 +7,7 @@
 
 ### Dataset 
 
-downold [Here](https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset)
+* Downold [Here](https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset)
 
 <h2 align="center"> Process for build the CNN model</h2>
 
