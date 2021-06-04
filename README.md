@@ -1,6 +1,7 @@
 <h2 align="center"> Cotton-Disease-Prediction</h2>
 
 <h4 align="left"> Description </h4>
+
 * About the problem: We have four classes of cotton images which are diseased cotton leaf, diseased cotton plant, fresh cotton leaf and fresh cotton leaf. So, we have to build    the model in such a way If we feed the images into the model It can able to detect whether those images belong to the which classes?
 
 
